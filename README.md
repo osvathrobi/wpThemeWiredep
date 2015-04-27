@@ -14,7 +14,7 @@ You can issue the watch command to continuously rebuild the theme while working 
 
 ```grunt watch```
 
-Noe
+Note
 ----
 
 All the 3th party JS and CSS are concated into vendor.js and vendor.css and are included via get_template_directory_uri()
