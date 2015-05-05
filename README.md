@@ -5,6 +5,19 @@ With this package you are not required anymore to manually install external 3th 
 
 All you need to do is edit ```bower.json```: add the pacakge name and version you require and the grunt task will take care of all the work. The final references are inserted via ```get_template_directory_uri()``` into ```header.php``` (styles) and ```footer.php``` (vendor javascripts).
 
+Prerequisites
+-------------
+
+Node, Npm, bower, grunt, grunt-cli
+
+
+```npm install -g bower```
+
+```npm install -g grunt```
+
+```npm install -g grunt-cli```
+
+
 Usage
 -----
 
