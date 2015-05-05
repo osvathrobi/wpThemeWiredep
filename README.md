@@ -1,5 +1,5 @@
 # wpThemeWiredep
-This is a blank WordPress theme that has Grunt, Bower and Wiredep built on HTML5Blank (http://html5blank.com/).
+This is a blank WordPress theme that has Grunt, Bower and Wiredep built on HTML5Blank (http://html5blank.com/). You can swap out HTML5Blank to your own theme (or other boilerplates) by replacing the content of the SRC folder. 
 
 With this package you are not required anymore to manually install external 3th party javascript libraries.
 
