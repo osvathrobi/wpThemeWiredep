@@ -3,7 +3,7 @@ This is a blank WordPress theme that has Grunt, Bower and Wiredep built on HTML5
 
 With this package you are not required anymore to manually install external 3th party javascript libraries.
 
-All you need to do is edit ```bower.json```: add the pacakge name and version you requie and the grunt task will take care of all the work. The final references are inserted via get_template_directory_uri() into ```header.php``` (styles) and ```footer.phph``` (vendor javascripts).
+All you need to do is edit ```bower.json```: add the pacakge name and version you require and the grunt task will take care of all the work. The final references are inserted via ```get_template_directory_uri()``` into ```header.php``` (styles) and ```footer.php``` (vendor javascripts).
 
 Usage
 -----
